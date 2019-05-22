@@ -1,0 +1,5 @@
+Oldest transaction    28452059
+Oldest active        28452060
+Oldest snapshot        28451705
+Next transaction    28460641
+
