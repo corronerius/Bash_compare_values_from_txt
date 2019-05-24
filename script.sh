@@ -6,7 +6,7 @@ tmp_file=/tmp/t.txt         #Исходный файл
 
 threshold=2000000
 
-echo "From: <info@lexico-voip.com>" > $tmp_file
+echo "From: <info@domein.com>" > $tmp_file
 echo "To: <$email>" >> $tmp_file
 echo "Subject: Too long transaction" >> $tmp_file
 echo "" >> $tmp_file
